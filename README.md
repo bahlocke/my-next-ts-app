@@ -1,3 +1,5 @@
+A Next app that utilizes a free gaming API to list out and paginate games. NOTE: API randomizes the returned list each time so it doesn't necessarily keep the same order each refresh.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
